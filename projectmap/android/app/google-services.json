@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124581617052",
+    "project_id": "tackmap-96f7b",
+    "storage_bucket": "tackmap-96f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124581617052:android:6bc20d536c8b2a4660bc59",
+        "android_client_info": {
+          "package_name": "com.example.projectmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124581617052-ilrq7ntt7pj6an20vjvvrjbl4f295a9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLZP7RYINEen_js-uYGSKquJ_YAI3-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124581617052-ilrq7ntt7pj6an20vjvvrjbl4f295a9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
